@@ -1,0 +1,10 @@
+transaction_id,customer_id,transaction_time,amount,merchant,location
+1001,501,2025-03-01 10:01:00,120,Amazon,New York
+1002,502,2025-03-01 10:05:00,15000,Apple Store,California
+1003,501,2025-03-01 10:06:00,90,Starbucks,New York
+1004,503,2025-03-01 10:07:00,20000,BestBuy,Texas
+1005,504,2025-03-01 10:08:00,75,Uber,Chicago
+1006,502,2025-03-01 10:10:00,50,McDonalds,California
+1007,505,2025-03-01 10:12:00,30000,Walmart,Florida
+1008,506,2025-03-01 10:15:00,150,Netflix,Florida
+1009,507,2025-03-01 10:18:00,12000,Apple Store,Texas
